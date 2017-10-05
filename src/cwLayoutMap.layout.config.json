@@ -1,0 +1,27 @@
+{
+	"Name": "cw-layout-map",
+	"DisplayName": "Map",
+	"Description": "Display a map",
+	"JavaScriptClassName": "cwLayoutMap",
+	"Options": [{
+		"Id": "initial-map",
+		"DisplayName": "Map",
+		"Description": "The name of the map you want to display",
+		"Type": 0
+	}, {
+		"Id": "iso-code-pt",
+		"DisplayName": "ISO code scriptname",
+		"Description": "ISO code property scriptname",
+		"Type": 0
+	}, {
+		"Id": "lat-lng-pt",
+		"DisplayName": "Lat. Long. scriptname",
+		"Description": "Latitude Longitude property scriptname",
+		"Type": 0
+	}, {
+		"Id": "click-to-navigate",
+		"DisplayName": "Click to navigate",
+		"Description": "Check if you want to navigate to object page when clicking on map",
+		"Type": 1
+	}]
+}

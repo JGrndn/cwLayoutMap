@@ -1,0 +1,21 @@
+{
+  "name": "cwLayoutMap",
+  "description": "Allow you to display data using the treemap view",
+  "version": "1.0.0",
+  "main": "cwLayoutMap.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JGrndn/cwLayoutMap"
+  },
+  "author": "Jerome GRONDIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JGrndn/cwLayoutMap/issues"
+  },
+  "homepage": "",
+  "wiki": "https://github.com/JGrndn/cwLayoutMap/wiki",
+  "evolve-version": "4.0 - 4.1"
+}
