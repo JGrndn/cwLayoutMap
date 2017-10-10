@@ -9,6 +9,11 @@
 		"Description": "The name of the map you want to display",
 		"Type": 0
 	}, {
+		"Id": "initial-map-scriptname",
+		"DisplayName": "Map (scriptname)",
+		"Description": "The property which contains the name of the map to be displayed",
+		"Type": 0
+	}, {
 		"Id": "iso-code-pt",
 		"DisplayName": "ISO code scriptname",
 		"Description": "ISO code property scriptname",
