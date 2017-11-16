@@ -10,12 +10,12 @@ First you need to create the following page structure. Note that you can use thi
 
 Then you need fill the following options : 
 * Map : Set the name of the map you want to use. Available maps are : [world_merc_en, us_merc_en, unitedkingdom_merc_en, switzerland_merc_en, southafrica_merc_en, philippines_regions_merc_en, netherlands_merc_en, italy_merc_en, india_merc_en, france_merc_en, europe_merc_en, canada_merc_en, belgium_merc_en]
-* Map (scriptname) : If you want to use dynamic map, set the scriptname of the property where the name of the map is stored (this must be a property on the parent node object). If not set, the static map will be used (see option above)
+* Map (scriptname) : If you want to use dynamic map, set the scriptname of the property where the name of the map is stored (this must be a property on the parent node object). If not set, the static map will be used (see option above). This option is useful when you want to display different maps for a same object type (ex : France, UK, etc.)
 * ISO code scriptname : When using maps, you must have a user-defined property on the object to store the country code. This must be a Single-Line Text property. The country code is a two-letter code which adheres to the ISO 3166-1 standard.
 * Lat. Long. scriptname : When using maps, you must have a user-defined property on the object to store the latitude and longitude reference for the place you want to show. This must be a Single-Line Text property. The format for the value is '[latitude],[longitude]' (such as 48.856614,2.352222 for Paris).
 * Click to navigate : Check this option if you want to be redirected on the object page when you click on a location.
   
-<img src="https://github.com/JGrndn/cwLayoutD3TreeMap/blob/master/screen/4.JPG" style="width:95%" />  
+<img src="https://github.com/JGrndn/cwLayoutMap/blob/master/screen/2.JPG" style="width:95%" />  
 
 
 
