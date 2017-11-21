@@ -23,10 +23,5 @@
 		"DisplayName": "Lat. Long. scriptname",
 		"Description": "Latitude Longitude property scriptname",
 		"Type": 0
-	}, {
-		"Id": "click-to-navigate",
-		"DisplayName": "Click to navigate",
-		"Description": "Check if you want to navigate to object page when clicking on map",
-		"Type": 1
 	}]
 }

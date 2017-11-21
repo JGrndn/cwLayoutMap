@@ -134,7 +134,7 @@
     goToPage = function (item) {
       if (!cwApi.isUndefined(item)) {
         var hash;
-        if (that.options.CustomOptions['click-to-navigate'] === true){
+        if (that.options.HasLink === true){
           hash = cwApi.getSingleViewHash(item.objectTypeScriptName, item.object_id);
           $('.jvectormap-label').remove();
           cwApi.updateURLHash(hash);
