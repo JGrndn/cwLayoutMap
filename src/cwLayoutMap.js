@@ -91,7 +91,7 @@
     res.markersMapping = markersMapping;
     res.markersValues = markersValues;
     res.regionsValues = regionsValues;
-    output.push('<div class="cwLayoutMap cw-visible cwLayoutMap-', this.nodeID, '" id="cw-map-', this.nodeID, '"></div>');
+    output.push('<div class="cwLayoutMap cw-visible cwLayoutMap-', this.nodeID, ' cw-jvector-map" id="cw-map-', this.nodeID, '"></div>');
     this.data = res;
   };
 
