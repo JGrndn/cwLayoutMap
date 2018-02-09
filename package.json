@@ -1,6 +1,6 @@
 {
   "name": "cwLayoutMap",
-  "description": "Allow you to display data using the treemap view",
+  "description": "Allow you to display map with clickable regions",
   "version": "1.2.3",
   "main": "cwLayoutMap.js",
   "scripts": {
